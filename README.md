@@ -1,4 +1,3 @@
-# Nitikaa
 <h1 align="center">Hi 👋, I'm Nitika</h1>
 <h3 align="center">A passionate tech student from India</h3>
 
@@ -20,7 +19,10 @@
 <p align="left">
 <a href="https://twitter.com/https://x.com/nitikaaa12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/nitikaaa12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nitika-0245b6251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitika-0245b6251/" height="30" width="40" /></a>
-<a href="https://instagram.com/@whytiskolaveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@whytiskolaveri" height="30" width="40" /></a>
+<a href="https://instagram.com/whytiskolaveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whytiskolaveri" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/whytiskolaveri12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/whytiskolaveri12" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/ndpati6k06/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ndpati6k06/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
