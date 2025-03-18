@@ -32,4 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niti12&show_icons=true&locale=en" alt="niti12" /></p>
 
+![](https://leetcard.jacoblin.cool/Nitika?ext=heatmap)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niti12&" alt="niti12" /></p>
+
