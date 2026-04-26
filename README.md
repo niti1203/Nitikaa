@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA, C++, C, HTML, PYTHON, CSS**
 
-- 📫 How to reach me **goniti12@gmail.com**
+- 📫 How to reach me **nitiwork90@gmail.com**
 
 - ⚡ Fun fact **I think people play with my feelings (little did they know)**
 
