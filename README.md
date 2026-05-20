@@ -9,7 +9,7 @@ Currently focused on Web Development, Data Structures & Algorithms, and building
 ---
 
 ## 🌱 Currently Learning
-- Data Structures & Algorithms (C++)
+- Data Structures & Algorithms (C++)(Java)
 - Full Stack Web Development
 - System Design Basics
 - Real-world project development
@@ -19,7 +19,7 @@ Currently focused on Web Development, Data Structures & Algorithms, and building
 ## 💻 What I Work With
 
 **Languages:**  
-C++ • C • Python • JavaScript • HTML • CSS  
+C++ • C • Python •Java • JavaScript • HTML • CSS  
 
 **Frameworks & Tools:**  
 React • Tailwind CSS • Git • Figma • MongoDB • Bootstrap  
